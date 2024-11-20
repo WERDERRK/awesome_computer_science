@@ -41,7 +41,7 @@
 ## Digital Electronics
 
 - [ ] **[Boolean Algebra](http://www.uop.edu.pk/ocontents/ELEC-DIGE-S3%20Boolean%20Algebra%20Laws%20.pdf)**
-   - Number System
+   {done} Number System
    - Addition, Subtraction
    - Multiplication, Division
    - 1's, 2's compliments
